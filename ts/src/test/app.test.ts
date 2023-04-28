@@ -1,6 +1,6 @@
 import { describe, expect, test } from "@jest/globals";
 
-import foo from "./../app";
+import foo from "../app";
 
 describe("Given a foo function", () => {
   describe("When something happen", () => {
